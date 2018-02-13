@@ -1,8 +1,3 @@
-# Name: Joanna Choi
-# VUNET ID: choije
-# Class: SC3250
-# Assignment: #11
-
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
